@@ -45,9 +45,14 @@ Execute o comando:
 php artisan key:generate
 ```
 
-Execute o comando para os pacotes javascript:
+Execute o comando para os baixar pacotes javascript:
 ```sh
 npm install
+```
+
+Execute o comando para os copiar os arquivos javascript e css:
+```sh
+npx mix
 ```
 
 Para subir o servidor local, executar:
