@@ -1,6 +1,6 @@
-## Captura de veículos
+## Pesquisa Veículos
 
-Projeto para lista dados de carros, de acordo com o termo informado.
+Projeto para listar dados de carros, de acordo com o termo informado.
 
 ## Tecnologias/Ferramentas utilizadas
 - PHP 8
@@ -9,7 +9,6 @@ Projeto para lista dados de carros, de acordo com o termo informado.
 - Laravel 8
 - Node JS
 - GIT
-- Laragon (opcional)
 
 ## Instruções
 Clonar o projeto:
